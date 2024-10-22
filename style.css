@@ -7,3 +7,16 @@
 {
     width: 40%
 }
+nav a {
+    margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    color: crimson;
+    display: flex;
+    justify-content: center;
+}
+
+.fonte {
+    font-style: italic;
+    color: black;
+    
